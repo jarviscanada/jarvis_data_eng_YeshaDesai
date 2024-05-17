@@ -1,4 +1,6 @@
-#!/bin/bash
+
+
+#!bin/bash
 # Capture CLI arguments
 cmd=$1
 db_username=$2
@@ -53,4 +55,3 @@ case $cmd in
     exit 1
     ;;
 esac 
-
