@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 #! /bin/sh
+=======
+#!bin/bash
+>>>>>>> feature/psql_docker
 
 # Capture CLI arguments
 cmd=$1
@@ -53,3 +57,7 @@ case $cmd in
 	exit 1
 	;;
 esac 
+<<<<<<< HEAD
+=======
+
+>>>>>>> feature/psql_docker
