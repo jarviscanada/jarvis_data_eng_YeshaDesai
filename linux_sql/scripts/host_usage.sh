@@ -1,3 +1,4 @@
+
 #!/bin/bash
 
 psql_host=$1
